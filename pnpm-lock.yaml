@@ -13,6 +13,7 @@ specifiers:
   next: 13.2.4
   react: 18.2.0
   react-dom: 18.2.0
+  react-icons: ^4.8.0
   typescript: 5.0.2
 
 dependencies:
@@ -28,6 +29,7 @@ dependencies:
   next: registry.npmmirror.com/next/13.2.4_biqbaboplfbrettd7655fr4n2y
   react: registry.npmmirror.com/react/18.2.0
   react-dom: registry.npmmirror.com/react-dom/18.2.0_react@18.2.0
+  react-icons: registry.npmmirror.com/react-icons/4.8.0_react@18.2.0
   typescript: registry.npmmirror.com/typescript/5.0.2
 
 packages:
@@ -4108,6 +4110,17 @@ packages:
       react-clientside-effect: registry.npmmirror.com/react-clientside-effect/1.2.6_react@18.2.0
       use-callback-ref: registry.npmmirror.com/use-callback-ref/1.3.0_2thlp7g7odiqm7dwhn3rlhxaa4
       use-sidecar: registry.npmmirror.com/use-sidecar/1.1.2_2thlp7g7odiqm7dwhn3rlhxaa4
+    dev: false
+
+  registry.npmmirror.com/react-icons/4.8.0_react@18.2.0:
+    resolution: {integrity: sha512-N6+kOLcihDiAnj5Czu637waJqSnwlMNROzVZMhfX68V/9bu9qHaMIJC4UdozWoOk57gahFCNHwVvWzm0MTzRjg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/react-icons/-/react-icons-4.8.0.tgz}
+    id: registry.npmmirror.com/react-icons/4.8.0
+    name: react-icons
+    version: 4.8.0
+    peerDependencies:
+      react: '*'
+    dependencies:
+      react: registry.npmmirror.com/react/18.2.0
     dev: false
 
   registry.npmmirror.com/react-is/16.13.1:
